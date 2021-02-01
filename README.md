@@ -1,0 +1,1 @@
+This project is to learn and practice the jQuery method of interacting with the DOM in JavaScript
